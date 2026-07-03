@@ -9,3 +9,7 @@ Repositório criado para aprender Git e GitHub.
 - Aprender boas práticas de versionamento
 
 Autor: Junior Marques
+
+## Histórico
+
+- 03/07/2026 - Primeira versão do projeto.
