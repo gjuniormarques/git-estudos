@@ -13,3 +13,7 @@ Autor: Junior Marques
 ## Histórico
 
 - 03/07/2026 - Primeira versão do projeto.
+
+## Chatbot
+
+Em desenvolvimento.
