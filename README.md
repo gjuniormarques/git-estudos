@@ -17,3 +17,7 @@ Autor: Junior Marques
 ## Chatbot
 
 Em desenvolvimento.
+
+## Observação
+
+Alteração realizada diretamente pelo GitHub.
